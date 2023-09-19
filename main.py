@@ -16,5 +16,5 @@ while True:
   
 v = max(c)
 w = c.index(v)
-print(f'\033[32m{d[w]} has the highest score of {v}')
+print(f'\033[32m{d[w]} has the highest score of {v}.')
 a.close()
